@@ -1,6 +1,6 @@
-[![MasterHead](https://camo.githubusercontent.com/f6decabc6a509fd6d5d8a1053fedc3ad96458e223c6a9f8f312d125b6e833c7b/68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67)](https://rishavchanda.io) 
+[![MasterHead](https://camo.githubusercontent.com/f6decabc6a509fd6d5d8a1053fedc3ad96458e223c6a9f8f312d125b6e833c7b/68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67)](https://github.com/lilyoo226) 
 <h1 align="center">Hi 👋, I'm Samuel Amoah</h1>
-<h3 align="center">A passionate frontend developer from Ghana India</h3>
+<h3 align="center">A passionate frontend developer from Ghana </h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lilyoo226&label=Profile%20views&color=0e75b6&style=flat" alt="lilyoo226" /> </p>
