@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://homieport.netlify.app/)
+- 👨‍💻 All of my projects are available on [My Portfolio](https://homieport.netlify.app/)
 
 - 💬 Ask me about **Android , Games , MEARN**
 
