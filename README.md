@@ -36,7 +36,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/lilyoo226/lilyoo226/output/snake.svg" alt="Snake animation" />
-
-###
