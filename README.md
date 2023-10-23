@@ -37,10 +37,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31exv4hrhxml73kd6tsnwjlsfuqy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=2&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+<img src="https://raw.githubusercontent.com/lilyoo226/lilyoo226/output/snake.svg" alt="Snake animation" />
 
 ###
